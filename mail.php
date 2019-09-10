@@ -25,7 +25,7 @@
 		
 		
 		// Replace with your Email
-		$recipient = "youremail@yourdomain.com";
+		$recipient = "alishbai734@gmail.com";
 		
 		$mailheader = "From: $email \r\n";
 		
